@@ -76,7 +76,7 @@ See:
 
 ## Market Qualification Logic
 
-Expansion decisions were treated as risk-adjusted capital deployment events,requiring quantified validation across operational, financial, and regulatory constraints before authorization.
+Expansion decisions were treated as risk-adjusted capital deployment events, requiring quantified validation across operational, financial, and regulatory constraints before authorization.
 
 See:
 - [Weighted Market Scoring Model](replication_model/market_scoring_model.md)
