@@ -52,7 +52,21 @@ Detailed breakdown:
 
 ## KPI Enforcement & Governance
 
-Tolerance bands and escalation triggers were institutionalized.
+Standardization without enforcement produces reporting alignment — not performance alignment.
+
+To convert KPI definitions into enterprise control, variance thresholds were tied directly to escalation protocol and leadership accountability.
+
+Performance drift was not observed passively — it triggered intervention.
+
+This ensured that:
+
+- Margin compression was addressed before capital erosion.
+- Labor inefficiencies were corrected before scaling amplified them.
+- Regional optimization did not undermine enterprise comparability.
+
+The objective was not monitoring.
+
+It was volatility compression.
 
 See:
 - [KPI Tolerance Enforcement Model](kpi_governance/regional_comparability.md)
@@ -62,7 +76,7 @@ See:
 
 ## Market Qualification Logic
 
-Expansion approval followed a weighted scoring model.
+Expansion decisions were treated as risk-adjusted capital deployment events,requiring quantified validation across operational, financial, and regulatory constraints before authorization.
 
 See:
 - [Weighted Market Scoring Model](replication_model/market_scoring_model.md)
@@ -71,7 +85,7 @@ See:
 
 ## Friction & Tradeoffs
 
-Standardization required sacrificing localized autonomy.
+Expansion decisions were treated as risk-adjusted capital deployment events,requiring quantified validation across operational, financial, and regulatory constraints before authorization.
 
 See:
 - [Hard Decision — Centralization vs Regional Autonomy](analysis/hard_decision_tradeoffs.md)
