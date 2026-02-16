@@ -6,14 +6,22 @@ Markets were evaluated using structured scoring criteria.
 
 ---
 
-## Market Qualification Inputs
+## Weighted Market Scoring Model
 
-- Demographic density
-- Competitive landscape
-- Labor availability
-- Regulatory friction
-- Capital deployment threshold
-- Projected margin profile
+Each market was evaluated using a weighted scoring framework.
+
+| Factor                    | Weight | Score (1-5) | Weighted Score |
+|---------------------------|--------|-------------|----------------|
+| Demographic Density       | 20%    | 4           | 0.8            |
+| Competitive Landscape     | 15%    | 3           | 0.45           |
+| Labor Availability        | 20%    | 5           | 1.0            |
+| Regulatory Friction       | 15%    | 2           | 0.30           |
+| Margin Projection         | 20%    | 4           | 0.8            |
+| Capital Deployment Risk   | 10%    | 3           | 0.30           |
+
+Total Score: 3.65 / 5
+
+Minimum Expansion Threshold: 3.5
 
 ---
 
