@@ -54,3 +54,23 @@ Markets were approved when:
 Replication discipline reduces expansion volatility.
 
 Scalable growth is engineered through structured qualification, not enthusiasm.
+
+---
+
+## Capital Exposure Avoided
+
+In one evaluated market:
+
+Projected margin: 17% under optimistic case  
+Stress-tested margin: 11% under conservative case  
+
+Capital recovery under stress scenario exceeded tolerance by 8 months.
+
+Decision:
+Market disqualified.
+
+Six months later:
+Competitor entered and exited within 9 months due to labor instability.
+
+Strategic takeaway:
+Discipline prevented capital misallocation.
