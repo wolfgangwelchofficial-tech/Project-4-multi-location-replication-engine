@@ -55,3 +55,20 @@ Six months later, comparable competitor exited market due to labor instability.
 ## Structural Outcome
 
 The replication engine functioned not as documentation — but as institutional memory.
+
+---
+
+## Decision Pattern Analysis
+
+Across 12 logged governance decisions:
+
+- 5 involved KPI definition overrides.
+- 3 involved labor band recalibration.
+- 2 involved vendor contract consolidation.
+- 2 involved market disqualification.
+
+Most volatility originated from:
+1. Labor modeling inconsistency.
+2. Margin definition drift.
+
+This informed Version 2.0 dashboard redesign.
