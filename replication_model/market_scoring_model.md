@@ -23,6 +23,20 @@ Total Score: 3.65 / 5
 
 Minimum Expansion Threshold: 3.5
 
+## Sensitivity Scenario
+
+If margin projection decreases by 5% due to competitive saturation:
+
+Original Weighted Score: 3.65  
+Adjusted Score: 3.32  
+
+Threshold: 3.5  
+
+Outcome:
+Market disqualified under downside stress scenario.
+
+This prevented optimistic modeling from driving premature capital deployment.
+
 ---
 
 ## Expansion Trigger Logic
