@@ -42,8 +42,6 @@ The answer is engineered consistency.
 
 ## Enterprise Replication Architecture
 
-![Replication Architecture](visuals/replication_architecture.png)
-
 This diagram shows how the operating system connects end-to-end—from expansion gating to portfolio variance control.
 
 ![Replication Architecture](visuals/replication_architecture.png)
