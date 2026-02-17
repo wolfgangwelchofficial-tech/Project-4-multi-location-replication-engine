@@ -50,3 +50,20 @@ Actions:
 
 Result:
 Margin variance narrowed from double-digit swings to mid-single digits.
+
+---
+
+## Inflection Point
+
+During Phase 2, two markets delayed KPI adoption citing reporting fatigue.
+
+Risk:
+Dual-reporting period extended beyond 30 days would compromise standardization.
+
+Resolution:
+Executive mandate issued.
+Legacy reporting sunset date enforced.
+Adoption compliance tied to leadership evaluation.
+
+Lesson:
+Standardization requires authority, not consensus.
