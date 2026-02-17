@@ -74,3 +74,31 @@ Intervention priority targeted:
 Weak Execution markets regardless of structural conditions.
 
 This prevented structural excuses from masking operational drift.
+
+## Portfolio Spread Analysis
+
+Quarterly portfolio review measured:
+
+- Margin spread (highest vs lowest market)
+- Labor spread compression
+- Revenue per FTE dispersion
+- Forecast accuracy delta
+
+Pre-standardization:
+Margin spread averaged 12%.
+
+Post-standardization:
+Margin spread compressed to under 4%.
+
+Spread compression was treated as a performance KPI at the enterprise level.
+
+## Capital Allocation Implication
+
+Regional comparability enabled:
+
+- Accurate capital redeployment decisions.
+- Identification of underperforming markets.
+- Confident expansion pacing.
+- Elimination of false-positive high performers driven by accounting variance.
+
+Comparability reduced capital misallocation risk.
