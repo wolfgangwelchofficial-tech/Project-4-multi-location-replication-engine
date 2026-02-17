@@ -12,11 +12,26 @@ Deviation: +8% over tolerance band
 - Inefficient scheduling model.
 - Incentive misalignment at GM level.
 
-## Intervention
+## Weekly Intervention Cadence
 
-1. Schedule compression modeling.
-2. Shift-level revenue forecasting.
-3. GM performance alignment to labor KPI.
+Week 1:
+- Identified overstaffed peak windows via hourly revenue mapping.
+- Modeled optimal labor band per hour.
+
+Week 2:
+- Reduced weekend shift overlap by 14%.
+- Introduced minimum revenue threshold per scheduled hour.
+
+Week 3–4:
+- GM compensation aligned to labor band compliance.
+- Weekly red-band review introduced.
+
+Week 6:
+- Labor % reduced from 36% → 30%.
+- Revenue held within ±2% baseline.
+
+Key Mechanism:
+Not cost cutting — labor alignment to revenue density.
 
 ## Outcome
 
