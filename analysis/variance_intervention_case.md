@@ -48,3 +48,21 @@ Within 6 weeks:
 Standardization without enforcement does not reduce variance.
 
 Institutional discipline requires intervention modeling.
+
+---
+
+## Resistance & Escalation
+
+Initial GM response:
+"Revenue is strong — labor reduction risks service degradation."
+
+Counter-analysis:
+Modeled hourly revenue density showed overstaffing during low-yield windows.
+
+Escalation:
+Labor deviation triggered red-band protocol.
+Corporate review mandated adjustment.
+
+Outcome:
+Service metrics remained stable.
+Labor compression achieved without revenue erosion.
