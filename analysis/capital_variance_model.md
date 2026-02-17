@@ -27,3 +27,16 @@ Predictable margin variance enables:
 - Accurate capital allocation
 - Confident expansion pacing
 - Liquidity buffer optimization
+
+---
+
+## Forecast Stability Impact
+
+Pre-standardization:
+Quarterly forecast variance averaged ±9%.
+
+Post-standardization:
+Forecast variance reduced to ±3%.
+
+Implication:
+Improved capital planning accuracy enabled tighter liquidity buffer modeling.
