@@ -41,3 +41,22 @@ Reduced variance improved:
 - Capital planning accuracy.
 - Expansion confidence.
 - Liquidity modeling precision.
+
+---
+
+## Measurement Methodology
+
+Variance was calculated using rolling 90-day performance windows across active markets.
+
+Outliers were defined as deviations exceeding one standard deviation from portfolio mean.
+
+Data sources:
+- Standardized POS revenue export
+- Payroll labor allocation reports
+- Vendor invoice reconciliation
+- Centralized KPI dashboard
+
+Pre-implementation period: 6 months  
+Post-implementation evaluation window: 6 months  
+
+This ensured that improvements were structural — not seasonal artifacts.
