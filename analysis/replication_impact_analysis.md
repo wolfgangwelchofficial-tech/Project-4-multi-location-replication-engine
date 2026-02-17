@@ -1,29 +1,43 @@
 # Replication Engine Impact Analysis
 
-Following implementation across markets:
+## Baseline Condition (Pre-Standardization)
 
-## Measured Improvements
+Across 8 operating markets:
 
-- Reduced inter-market margin variance from 12% to under 4%.
-- Labor-to-revenue deviation reduced to within 3% tolerance band.
-- Launch timeline variance reduced by ~18%.
-- Compliance-related launch delays reduced to zero across subsequent openings.
+| Metric                    | Lowest Market | Highest Market | Variance Spread |
+|---------------------------|--------------|----------------|----------------|
+| Gross Margin              | 58%          | 70%            | 12%            |
+| Labor % of Revenue        | 26%          | 38%            | 12%            |
+| Revenue per FTE           | $9,200       | $14,100       | 53% delta      |
 
----
-
-## Systemic Changes
-
-1. Reporting latency reduced.
-2. Escalation clarity improved.
-3. Decision authority standardized.
-4. Market qualification errors reduced.
+Performance volatility was driven primarily by:
+- Inconsistent labor modeling.
+- Localized vendor pricing variance.
+- Non-uniform KPI definitions.
 
 ---
 
-## Executive Outcome
+## Post-Implementation (6-Month Window)
 
-Replication transitioned from experience-driven to system-driven.
+| Metric                    | Lowest Market | Highest Market | Variance Spread |
+|---------------------------|--------------|----------------|----------------|
+| Gross Margin              | 63%          | 67%            | 4%             |
+| Labor % of Revenue        | 27%          | 30%            | 3%             |
+| Revenue per FTE           | $11,800      | $12,900       | 9% delta       |
 
-Variance became measurable.
-Deviation became actionable.
-Scaling became predictable.
+Variance compression was driven by:
+
+1. Enforced labor scheduling models.
+2. Standardized vendor contract renegotiation.
+3. Removal of inconsistent revenue categorization.
+
+---
+
+## Enterprise Effect
+
+Reduced variance improved:
+
+- Forecast reliability.
+- Capital planning accuracy.
+- Expansion confidence.
+- Liquidity modeling precision.
